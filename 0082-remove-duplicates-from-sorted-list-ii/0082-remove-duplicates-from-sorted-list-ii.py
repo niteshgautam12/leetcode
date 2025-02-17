@@ -1,24 +1,34 @@
-from typing import Optional
-
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(0, head)  
-        prev = dummy  
+        if not head:
+            return None
+
         
-        while head:
-            if head.next and head.val == head.next.val:  
-                while head.next and head.val == head.next.val:
-                    head = head.next  
-                prev.next = head.next  
+        values = []
+        current = head
+        while current:
+            values.append(current.val)
+            current = current.next
+
+        
+        values = sorted(values)
+
+        
+        unique_values = []
+        i = 0
+        while i < len(values):
+            if i + 1 < len(values) and values[i] == values[i + 1]:  
+                while i + 1 < len(values) and values[i] == values[i + 1]:  
+                    i += 1
             else:
-                prev = prev.next  
-            
-            head = head.next  
+                unique_values.append(values[i])  
+            i += 1
+
         
-        return dummy.next  
+        dummy = ListNode(0)
+        current = dummy
+        for val in unique_values:
+            current.next = ListNode(val)
+            current = current.next
+
+        return dummy.next
