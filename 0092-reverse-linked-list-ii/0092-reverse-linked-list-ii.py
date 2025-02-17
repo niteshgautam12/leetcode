@@ -1,17 +1,9 @@
-
-
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
         if not head or left == right:
             return head
 
-        dummy = ListNode(0, head)  
+        dummy = ListNode(0, head)
         prev = dummy
 
 
@@ -19,14 +11,19 @@ class Solution:
             prev = prev.next
 
 
-        start = prev.next
-        then = start.next
+        values = []
+        current = prev.next
+        for _ in range(right - left + 1):
+            values.append(current.val)
+            current = current.next
+
+  
+        values.reverse()
 
 
-        for _ in range(right - left):
-            start.next = then.next
-            then.next = prev.next
-            prev.next = then
-            then = start.next 
+        current = prev.next
+        for val in values:
+            current.val = val
+            current = current.next
 
         return dummy.next
