@@ -11,7 +11,15 @@ class Solution(object):
                 nums[i + 1] = 0  
         
         
-        result = [num for num in nums if num != 0]  
-        result.extend([0] * (len(nums) - len(result))) 
+        result = []
+        zero_count = 0
+        
+        for num in nums:
+            if num != 0:
+                result.append(num)
+            else:
+                zero_count += 1
+        
+        result.extend([0] * zero_count)  
         
         return result
