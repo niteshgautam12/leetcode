@@ -5,12 +5,12 @@ class Solution(object):
         :type m: int
         :rtype: int
         """
-        nums1=[]
-        nums2 =[]
+        nums1= 0 
+        nums2 = 0
         for i in range(1,n+1):
             if i%m == 0 :
-                nums2.append(i)
+                nums2 += i
             else:
-                nums1.append(i)
-        return sum(nums1) - sum(nums2)
+                nums1 += i
+        return nums1 - nums2
         
