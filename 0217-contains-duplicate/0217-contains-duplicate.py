@@ -4,12 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        hash_set = set()
-    
-        for num in nums:
-            if num in hash_set:
-                return True 
-            hash_set.add(num) 
-
-        return False
-        
+        nums.sort()
+        count = 0 
+        for i in range(len(nums)-1):
+            if nums[i] == nums[i+1]:
+                count += 1
+        if count == 0 :
+            return False
+        else :
+            return True
