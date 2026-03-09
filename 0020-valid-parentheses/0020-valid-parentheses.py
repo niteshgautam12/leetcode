@@ -1,13 +1,14 @@
-class Solution(object):
-    def isValid(self, s):
-        stack = []
-        mapping = {')':'(', ']':'[', '}':'{'}
-
-        for ch in s:
-            if ch in mapping:         
-                if not stack or stack.pop() != mapping[ch]:
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = [] 
+        mapping = {')':'(','}':'{',']':'['}
+        for char in s :
+            if char in mapping:
+                if stack and stack[-1] == mapping[char]:
+                    stack.pop()
+                else :
                     return False
-            else:                    
-                stack.append(ch)
-
+            else :
+                stack.append(char)
         return not stack
+        
