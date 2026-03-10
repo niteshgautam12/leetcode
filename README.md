@@ -7,6 +7,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/niteshgautam12/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/niteshgautam12/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/niteshgautam12/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ leetcode solution
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/niteshgautam12/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/niteshgautam12/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
