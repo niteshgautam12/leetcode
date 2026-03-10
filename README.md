@@ -27,11 +27,13 @@ leetcode solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/niteshgautam12/leetcode/tree/main/0001-two-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niteshgautam12/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/niteshgautam12/leetcode/tree/main/0001-two-sum/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
