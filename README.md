@@ -13,6 +13,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/niteshgautam12/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niteshgautam12/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niteshgautam12/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Hash Table
@@ -47,4 +49,8 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/niteshgautam12/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
