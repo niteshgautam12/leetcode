@@ -37,6 +37,7 @@ leetcode solution
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/niteshgautam12/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niteshgautam12/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/niteshgautam12/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +95,8 @@ leetcode solution
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niteshgautam12/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/niteshgautam12/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
