@@ -39,12 +39,14 @@ leetcode solution
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niteshgautam12/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/niteshgautam12/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/niteshgautam12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niteshgautam12/leetcode/tree/main/0001-two-sum/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/niteshgautam12/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/niteshgautam12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ leetcode solution
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/niteshgautam12/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/niteshgautam12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
