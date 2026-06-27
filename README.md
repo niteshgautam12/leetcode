@@ -40,6 +40,7 @@ leetcode solution
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niteshgautam12/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/niteshgautam12/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/niteshgautam12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/niteshgautam12/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ leetcode solution
 | [1189-maximum-number-of-balloons](https://github.com/niteshgautam12/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/niteshgautam12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/niteshgautam12/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/niteshgautam12/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/niteshgautam12/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
