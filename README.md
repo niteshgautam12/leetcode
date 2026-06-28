@@ -35,6 +35,7 @@ leetcode solution
 | [0283-move-zeroes](https://github.com/niteshgautam12/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niteshgautam12/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niteshgautam12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/niteshgautam12/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niteshgautam12/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -74,6 +75,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niteshgautam12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/niteshgautam12/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/niteshgautam12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
@@ -102,6 +104,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niteshgautam12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/niteshgautam12/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
