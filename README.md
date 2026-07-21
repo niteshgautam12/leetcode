@@ -33,6 +33,7 @@ leetcode solution
 | [0001-two-sum](https://github.com/niteshgautam12/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/niteshgautam12/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0704-binary-search](https://github.com/niteshgautam12/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niteshgautam12/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niteshgautam12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -66,6 +67,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/niteshgautam12/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
