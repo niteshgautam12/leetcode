@@ -69,6 +69,7 @@ leetcode solution
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/niteshgautam12/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/niteshgautam12/leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/niteshgautam12/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -123,4 +124,8 @@ leetcode solution
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/niteshgautam12/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/niteshgautam12/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/niteshgautam12/leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
