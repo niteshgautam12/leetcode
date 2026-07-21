@@ -31,6 +31,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niteshgautam12/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/niteshgautam12/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/niteshgautam12/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/niteshgautam12/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -66,6 +67,7 @@ leetcode solution
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/niteshgautam12/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/niteshgautam12/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Math
