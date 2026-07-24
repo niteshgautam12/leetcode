@@ -76,6 +76,7 @@ leetcode solution
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/niteshgautam12/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/niteshgautam12/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2427-number-of-common-factors](https://github.com/niteshgautam12/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Sorting
