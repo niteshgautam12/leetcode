@@ -79,6 +79,7 @@ leetcode solution
 | [0009-palindrome-number](https://github.com/niteshgautam12/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/niteshgautam12/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2427-number-of-common-factors](https://github.com/niteshgautam12/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/niteshgautam12/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ leetcode solution
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/niteshgautam12/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/niteshgautam12/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/niteshgautam12/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
