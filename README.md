@@ -21,6 +21,7 @@ leetcode solution
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/niteshgautam12/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/niteshgautam12/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/niteshgautam12/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/niteshgautam12/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/niteshgautam12/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -37,6 +38,7 @@ leetcode solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niteshgautam12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/niteshgautam12/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/niteshgautam12/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/niteshgautam12/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/niteshgautam12/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niteshgautam12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -51,6 +53,7 @@ leetcode solution
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niteshgautam12/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/niteshgautam12/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/niteshgautam12/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/niteshgautam12/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/niteshgautam12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/niteshgautam12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -85,6 +88,7 @@ leetcode solution
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/niteshgautam12/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/niteshgautam12/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/niteshgautam12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/niteshgautam12/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -159,4 +163,8 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/niteshgautam12/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/niteshgautam12/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 <!---LeetCode Topics End-->
